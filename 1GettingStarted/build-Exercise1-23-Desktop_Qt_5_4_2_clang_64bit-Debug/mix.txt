@@ -1,0 +1,10 @@
+xp 2 2.3
+xp 2 2.5
+xp 4 4.3
+vita 2 1.4
+vita 3 2.2
+vita 7 0.3
+vita 5 0.2
+px 1 1.6
+px 2 3.4
+px 3 3.8
