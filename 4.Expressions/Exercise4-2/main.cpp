@@ -4,8 +4,10 @@ using namespace std;
 
 int main()
 {
-   // 105
-   cout << 5 + 10 * 20/2 << endl;
+   // a)
+   // *(vec.begin())
+
+   // b) (*(vec.begin)+ 1)
    return 0;
 }
 
