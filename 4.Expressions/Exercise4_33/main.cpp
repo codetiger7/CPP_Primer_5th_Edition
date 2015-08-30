@@ -14,7 +14,7 @@
 // No matter what someValue is, y is always decremented by one this because
 // the comma operator left to right is weaker than the conditional operator Right to left
 // so expression is evaluated as: (somevalue ? ++x, ++y : --x), --y;
-
+// see: https://github.com/Mooophy/Cpp-Primer/tree/master/ch04
 // this means that when someValue is true first increases by one, then decreases by one
 // effectively standing still
 
