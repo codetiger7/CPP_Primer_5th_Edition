@@ -6,7 +6,7 @@
  0 is evaluated as "true" , any other value as "false"
 
  b) dval = fval + ival;
- int is converted to double, fval to double
+ int is converted to float, then both floats to double
 
  c) dval + ival * cval
  char is converted to int two ints multiplied and result converted to double
