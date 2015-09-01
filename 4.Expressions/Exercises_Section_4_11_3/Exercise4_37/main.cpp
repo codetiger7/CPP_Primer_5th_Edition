@@ -49,7 +49,9 @@ int main()
    // storing the int in i
 
    // c) pv = &d;
-   pv = static_cast<void*>(&d); // storing the address of double in pointer to void
+   pv = static_cast<void*>(&d);
+   // casting the address to double to a ptr to void
+   // storing the address of ptr to void in a pointer to void
 
 
    // d) pc = (char*) pv;
